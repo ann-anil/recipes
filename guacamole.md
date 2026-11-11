@@ -7,3 +7,4 @@
 * tomato
 * chilli
 ## Instructions
+Mash all ingredients together
