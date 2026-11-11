@@ -7,4 +7,5 @@
 * tomato
 * chilli
 ## Instructions
-Mash all ingredients together
+* The first step should be to peel the avocado!
+* Mash all ingredients together
